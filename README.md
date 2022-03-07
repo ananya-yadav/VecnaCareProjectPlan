@@ -1,0 +1,2 @@
+# VecnaCareProjectPlan
+A Massachusetts based non-profit organization designs, develops, and deploys technology solutions in low-resource settings to help people live better, healthier lives. The organization has developed an advanced electronic medical record platform. Organizational leaders seek support to develop a comprehensive project plan for their digital marketing strategy to reach the target audience.
